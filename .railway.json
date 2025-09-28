@@ -1,0 +1,8 @@
+{
+  "build": {
+    "command": "pip install -r requirements.txt"
+  },
+  "start": {
+    "command": "python enhanced_dtcc_scraper.py"
+  }
+}
