@@ -138,4 +138,4 @@ class DTCCCDSScraper:
                 time.sleep(30)
 
 if __name__ == "__main__":
-    DTCCCDSScraper().run_forever()
+    DTCCCDSScraper().run_forever() 
