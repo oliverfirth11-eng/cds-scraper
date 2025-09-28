@@ -1,0 +1,7 @@
+{
+  "build": {
+    "builder": "python",
+    "buildCommand": "pip install -r requirements.txt"
+  },
+  "start": "python cds_live_scraper.py"
+}
